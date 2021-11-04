@@ -1,6 +1,6 @@
 ### 👋 Hi there I'm Emmanuel
 
-I'm a Web developer and UI Designer based in Lagos, Nigeria. 
+I'm a Web developer (HTML, CSS, JavaScript, React, PHP, SQL, MySQL) and UI Designer. 
 I love making the web easier to navigate and use for the average human.
 
 - 🔭 I’m currently working on PHP Web Development
