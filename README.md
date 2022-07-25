@@ -6,6 +6,7 @@ I love making the web easier to navigate and use for the average human.
 <b>I’m currently Building Ventify and learning about the blockchain, Solidity and Full stack Web3 Development using JavaScript.</b>
 
 [![Effi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EffiEmmanuel)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EffiEmmanuel)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Frontend Web Development using React
 - 👯 I’m looking to learn about Ethereum, the blockchain, Solidity and Fullstack Web3 Development with JavaScript! 
