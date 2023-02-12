@@ -1,6 +1,6 @@
 ### 👋 Hi there I'm Emmanuel
 
-I'm a Fullstack Javascript Web developer (HTML, CSS, JavaScript, Bootstrap, React, MongoDB, Express, Nodejs | PHP, SQL, MySQL) and UI Designer. 
+I'm a Fullstack Javascript Web developer (HTML, CSS, JavaScript, Tailwindcss, React, Nodejs, MongoDB, Express) and UI Designer. 
 I love making the web easier to navigate and use for the average human.
 
 <b>I’m currently Building Ventify and learning about the blockchain, Solidity and Full stack Web3 Development using JavaScript.</b>
