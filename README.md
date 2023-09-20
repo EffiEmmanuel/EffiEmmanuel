@@ -3,9 +3,6 @@
 I'm a Fullstack Javascript Web developer (HTML, CSS, JavaScript, Tailwindcss, React, Nextjs, Nodejs, MongoDB, Express) and UI Designer. 
 I love making the web easier to navigate and use for the average human.
 
-[![Effi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EffiEmmanuel)](https://github.com/EffiEmmanuel/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EffiEmmanuel&layout=compact)](https://github.com/EffiEmmanuel/)
-
 - 🔭 I’m currently working on Fullstack Web Development using Reactjs, Nextjs, Nodejs
 - 👯 I’m looking to learn about Go for backend development.
 - 🤔 I’m looking for help with anything you think can improve my skills as a software engineer. I love learning and would appreciate any suggestions!
