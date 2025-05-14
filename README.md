@@ -1,7 +1,7 @@
 ### 👋 Hi there I'm Emmanuel
 
-I'm a Fullstack Javascript Web developer (HTML, CSS, JavaScript, Tailwindcss, React, Nextjs, Nodejs, MongoDB, Express) and UI Designer. 
-I love making the web easier to navigate and use for the average human.
+I'm a Fullstack SWE🧑🏽‍💻. 
+I build amazing stuff I would personally like to use. JUST SHIP IT.
 
 <a href="https://twitter.com/effi_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/emmanuel-effi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp; <a href="https://github.com/EffiEmmanuel"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp;
 
