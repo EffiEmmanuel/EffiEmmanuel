@@ -18,24 +18,14 @@
 <!-- ============================================= -->
 <!--                 SOCIAL LINKS                  -->
 <!-- ============================================= -->
-<a href="https://linkedin.com/in/emmanuel-effi">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="38" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
 <a href="https://twitter.com/theeffiemmanuel">
   <img src="https://cdn.simpleicons.org/x/FFFFFF" height="38" alt="X" />
 </a>
-&nbsp;&nbsp;
 <a href="https://instagram.com/theeffiemmanuel">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" height="38" alt="Instagram" />
 </a>
-&nbsp;&nbsp;
 <a href="mailto:effi@gethsemanetech.io">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" height="38" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.gethsemanetech.io">
-  <img src="https://cdn.simpleicons.org/googlechrome/8B5CF6" height="38" alt="Website" />
 </a>
 
 <br/>
