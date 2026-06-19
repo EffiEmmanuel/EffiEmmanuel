@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=200&section=header&text=Emmanuel%20Effi&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Fullstack%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2&descSize=18&descAlignY=58&descColor=E0E7FF" width="100%" alt="Emmanuel Effi" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=200&section=header&text=Emmanuel%20Effi&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Fullstack%20Engineer%20%E2%80%A2%20Founder&descSize=18&descAlignY=58&descColor=E0E7FF" width="100%" alt="Emmanuel Effi" />
 
 <br/>
 
