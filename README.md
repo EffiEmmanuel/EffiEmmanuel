@@ -6,8 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=200&section=header&text=Emmanuel%20Effi&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Fullstack%20Engineer%20%E2%80%A2%20Founder&descSize=18&descAlignY=58&descColor=E0E7FF" width="100%" alt="Emmanuel Effi" />
 
-<br/>
-
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Building+products+people+actually+need;Turning+complex+ideas+into+simple+software;SaaS+%E2%80%A2+AI+%E2%80%A2+Fintech+%E2%80%A2+Church+Tech;Always+shipping.+Always+learning." alt="Typing SVG" />
 </a>
