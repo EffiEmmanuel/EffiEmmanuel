@@ -20,14 +20,13 @@
 <!-- ============================================= -->
 <a href="https://twitter.com/theeffiemmanuel">
   <img src="https://cdn.simpleicons.org/x/FFFFFF" height="38" alt="X" />
-</a>
+</a> &nbsp;&nbsp;
 <a href="https://instagram.com/theeffiemmanuel">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" height="38" alt="Instagram" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="mailto:effi@gethsemanetech.io">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" height="38" alt="Email" />
 </a>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=EffiEmmanuel&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
