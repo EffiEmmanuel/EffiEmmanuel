@@ -12,33 +12,35 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Building+products+people+actually+need;Turning+complex+ideas+into+simple+software;SaaS+%E2%80%A2+AI+%E2%80%A2+Fintech+%E2%80%A2+Church+Tech;Always+shipping.+Always+learning." alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- ============================================= -->
 <!--                 SOCIAL LINKS                  -->
 <!-- ============================================= -->
-
+<!-- ============================================= -->
+<!--                 SOCIAL LINKS                  -->
+<!-- ============================================= -->
 <a href="https://linkedin.com/in/emmanuel-effi">
-  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://twitter.com/theeffiemmanuel">
-  <img src="https://img.shields.io/badge/-18181B?style=for-the-badge&logo=x&logoColor=white" height="42" alt="X" />
+  <img src="https://img.shields.io/badge/%20-18181B?style=for-the-badge&logo=x&logoColor=white" height="42" alt="X" />
 </a>
 &nbsp;
 <a href="https://instagram.com/theeffiemmanuel">
-  <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="42" alt="Instagram" />
+  <img src="https://img.shields.io/badge/%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="42" alt="Instagram" />
 </a>
 &nbsp;
 <a href="mailto:effi@gethsemanetech.io">
-  <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email" />
+  <img src="https://img.shields.io/badge/%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email" />
 </a>
 &nbsp;
 <a href="https://www.gethsemanetech.io">
-  <img src="https://img.shields.io/badge/-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" height="42" alt="Website" />
+  <img src="https://img.shields.io/badge/%20-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" height="42" alt="Website" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=EffiEmmanuel&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
 
