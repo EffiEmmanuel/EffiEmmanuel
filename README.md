@@ -19,10 +19,10 @@
 <!--                 SOCIAL LINKS                  -->
 <!-- ============================================= -->
 <a href="https://twitter.com/theeffiemmanuel">
-  <img src="https://cdn.simpleicons.org/x/FFFFFF" height="30" alt="X" />
+  <img src="https://cdn.simpleicons.org/x/FFFFFF" height="24" alt="X" />
 </a> &nbsp;&nbsp;
 <a href="https://instagram.com/theeffiemmanuel">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram" />
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="27" alt="Instagram" />
 </a>&nbsp;&nbsp;
 <a href="mailto:effi@gethsemanetech.io">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Email" />
