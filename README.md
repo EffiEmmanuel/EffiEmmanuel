@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=200&section=header&text=Emmanuel%20Effi&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Fullstack%20Engineer%20%E2%80%A2%20Founder&descSize=18&descAlignY=58&descColor=E0E7FF" width="100%" alt="Emmanuel Effi" />
+<img src="./header.svg" width="100%" alt="Emmanuel Effi — Fullstack Engineer & Founder" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Building+products+people+actually+need;Turning+complex+ideas+into+simple+software;SaaS+%E2%80%A2+AI+%E2%80%A2+Fintech+%E2%80%A2+Church+Tech;Always+shipping.+Always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=Building+products+people+actually+need;Turning+complex+ideas+into+simple+software;SaaS+%E2%80%A2+AI+%E2%80%A2+Fintech+%E2%80%A2+Church+Tech;Always+shipping.+Always+learning." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@
 </a>
 <br/> <br/>
 
-<img src="https://komarev.com/ghpvc/?username=EffiEmmanuel&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=EffiEmmanuel&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -59,6 +59,7 @@
 <td width="50%" valign="top">
 
 #### 🏢 Gethsemane Technologies Inc.
+
 The parent company behind everything I'm building.
 <br/>
 <a href="https://www.gethsemanetech.io">gethsemanetech.io →</a>
@@ -67,6 +68,7 @@ The parent company behind everything I'm building.
 <td width="50%" valign="top">
 
 #### 💻 Metriq Studio
+
 Software & product design agency for founders, startups, and organizations.
 <br/>
 <a href="https://www.metriq.studio">metriq.studio →</a>
@@ -77,6 +79,7 @@ Software & product design agency for founders, startups, and organizations.
 <td width="50%" valign="top">
 
 #### 🧹 Klina
+
 Cleaning SaaS delivering instant, transparent, standardized quotes you can trust.
 <br/>
 <a href="https://www.getklina.app">getklina.app →</a>
@@ -85,6 +88,7 @@ Cleaning SaaS delivering instant, transparent, standardized quotes you can trust
 <td width="50%" valign="top">
 
 #### 🤖 Manimo AI
+
 AI-powered newsletter automation for creators and businesses.
 <br/>
 <i>Coming soon</i>
@@ -101,12 +105,12 @@ AI-powered newsletter automation for creators and businesses.
 
 ## &nbsp;🏗️&nbsp; Featured Projects
 
-| Product | What it does | Web | Android | iOS |
-| :------ | :----------- | :-: | :-----: | :-: |
-| **🚘 Shuttlelane** | Airport transfers & chauffeur bookings across multiple cities and countries | ✅ | 🚧 | 🚧 |
-| **🧹 Klina** | Instant, trustworthy cleaning quotes | ✅ | 🚧 | 🚧 |
-| **💻 Metriq Studio** | Digital products for ambitious founders & organizations | ✅ | N/A | N/A |
-| **⛪ Church Media Tools** | Automating media, comms, content & events for churches | ✅ | N/A | N/A |
+| Product                   | What it does                                                                | Web | Android | iOS |
+| :------------------------ | :-------------------------------------------------------------------------- | :-: | :-----: | :-: |
+| **🚘 Shuttlelane**        | Airport transfers & chauffeur bookings across multiple cities and countries | ✅  |   🚧    | 🚧  |
+| **🧹 Klina**              | Instant, trustworthy cleaning quotes                                        | ✅  |   🚧    | 🚧  |
+| **💻 Metriq Studio**      | Digital products for ambitious founders & organizations                     | ✅  |   N/A   | N/A |
+| **⛪ Church Media Tools** | Automating media, comms, content & events for churches                      | ✅  |   N/A   | N/A |
 
 <sub>🌐 [shuttlelane.com](https://www.shuttlelane.com) &nbsp;·&nbsp; [getklina.app](https://www.getklina.app) &nbsp;·&nbsp; [metriq.studio](https://www.metriq.studio) &nbsp;·&nbsp; [tlccglobal.org](https://www.tlccglobal.org)</sub>
 
@@ -161,6 +165,6 @@ Launching a startup, scaling a product, automating operations, or bringing a new
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=120&section=footer&text=Build%20things%20people%20actually%20need.&fontColor=ffffff&fontSize=20&fontAlignY=75&desc=&animation=fadeIn" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:3B82F6&height=120&section=footer&text=Build%20things%20people%20actually%20need.&fontColor=ffffff&fontSize=20&fontAlignY=75&desc=&animation=fadeIn" width="100%" alt="footer" />
 
 </div>
