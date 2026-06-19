@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=200&section=header&text=Emmanuel%20Effi&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Fullstack%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%20Product%20Builder&descSize=18&descAlignY=58&descColor=E0E7FF" width="100%" alt="Emmanuel Effi" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=200&section=header&text=Emmanuel%20Effi&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Fullstack%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2&descSize=18&descAlignY=58&descColor=E0E7FF" width="100%" alt="Emmanuel Effi" />
 
 <br/>
 
@@ -19,23 +19,23 @@
 <!-- ============================================= -->
 
 <a href="https://linkedin.com/in/emmanuel-effi">
-  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white&labelColor=18181B" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://twitter.com/theeffiemmanuel">
-  <img src="https://img.shields.io/badge/X-8B5CF6?style=flat-square&logo=x&logoColor=white&labelColor=18181B" alt="X" />
+  <img src="https://img.shields.io/badge/-18181B?style=for-the-badge&logo=x&logoColor=white" height="42" alt="X" />
 </a>
 &nbsp;
 <a href="https://instagram.com/theeffiemmanuel">
-  <img src="https://img.shields.io/badge/Instagram-8B5CF6?style=flat-square&logo=instagram&logoColor=white&labelColor=18181B" alt="Instagram" />
+  <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="42" alt="Instagram" />
 </a>
 &nbsp;
 <a href="mailto:effi@gethsemanetech.io">
-  <img src="https://img.shields.io/badge/Email-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=18181B" alt="Email" />
+  <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email" />
 </a>
 &nbsp;
 <a href="https://www.gethsemanetech.io">
-  <img src="https://img.shields.io/badge/Website-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white&labelColor=18181B" alt="Website" />
+  <img src="https://img.shields.io/badge/-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" height="42" alt="Website" />
 </a>
 
 <br/><br/>
@@ -47,11 +47,15 @@
 <br/>
 
 <!-- ============================================= -->
-<!--                    INTRO                      -->
+<!--                  ABOUT ME                     -->
 <!-- ============================================= -->
 
-> Building software, businesses, and systems that solve real-world problems.
-> Most of my projects start because I couldn't find an existing solution — so I build it before asking for permission.
+## &nbsp;☕&nbsp; A Few Things About Me
+
+- 🌱 Passionate about **AI, SaaS, fintech, and church technology**
+- 🧩 I enjoy turning complex ideas into simple software
+- 💡 Most side projects start because I couldn't find an existing solution
+- 🚢 Always shipping. Always learning.
 
 <br/>
 
@@ -106,7 +110,7 @@ AI-powered newsletter automation for creators and businesses.
 <!--                FEATURED WORK                  -->
 <!-- ============================================= -->
 
-## &nbsp;🏗️&nbsp; Featured Products
+## &nbsp;🏗️&nbsp; Featured Projects
 
 | Product | What it does | Web | Android | iOS |
 | :------ | :----------- | :-: | :-----: | :-: |
@@ -169,45 +173,13 @@ AI-powered newsletter automation for creators and businesses.
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EffiEmmanuel&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=EffiEmmanuel&theme=nord&no-frame=true&no-bg=true&row=1&column=7&title_color=8B5CF6&text_color=C9D1D9" alt="Trophies" />
-
 </div>
 
 <br/>
 
 <!-- ============================================= -->
-<!--               CONTRIBUTION SNAKE              -->
+<!--                     CTA                       -->
 <!-- ============================================= -->
-
-## &nbsp;🐍&nbsp; Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ============================================= -->
-<!--                  ABOUT / CTA                  -->
-<!-- ============================================= -->
-
-## &nbsp;☕&nbsp; A Few Things About Me
-
-- 🔭 Building products before asking for permission
-- 🌱 Passionate about **AI, SaaS, fintech, and church technology**
-- 🧩 I enjoy turning complex ideas into simple software
-- 💡 Most side projects start because I couldn't find an existing solution
-- 🚢 Always shipping. Always learning.
-
-<br/>
 
 <div align="center">
 
