@@ -105,8 +105,8 @@ AI-powered newsletter automation for creators and businesses.
 | :------ | :----------- | :-: | :-----: | :-: |
 | **🚘 Shuttlelane** | Airport transfers & chauffeur bookings across multiple cities and countries | ✅ | 🚧 | 🚧 |
 | **🧹 Klina** | Instant, trustworthy cleaning quotes | ✅ | 🚧 | 🚧 |
-| **💻 Metriq Studio** | Digital products for ambitious founders & organizations | ✅ | — | — |
-| **⛪ Church Media Tools** | Automating media, comms, content & events for churches | ✅ | — | — |
+| **💻 Metriq Studio** | Digital products for ambitious founders & organizations | ✅ | N/A | N/A |
+| **⛪ Church Media Tools** | Automating media, comms, content & events for churches | ✅ | N/A | N/A |
 
 <sub>🌐 [shuttlelane.com](https://www.shuttlelane.com) &nbsp;·&nbsp; [getklina.app](https://www.getklina.app) &nbsp;·&nbsp; [metriq.studio](https://www.metriq.studio) &nbsp;·&nbsp; [tlccglobal.org](https://www.tlccglobal.org)</sub>
 
