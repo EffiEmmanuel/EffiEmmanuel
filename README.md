@@ -166,8 +166,6 @@ AI-powered newsletter automation for creators and businesses.
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=EffiEmmanuel&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-
 </div>
 
 <img src="./divider.svg" width="100%" alt="" />
