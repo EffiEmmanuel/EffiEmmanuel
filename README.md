@@ -15,9 +15,6 @@
 <!-- ============================================= -->
 <!--                 SOCIAL LINKS                  -->
 <!-- ============================================= -->
-<!-- ============================================= -->
-<!--                 SOCIAL LINKS                  -->
-<!-- ============================================= -->
 <a href="https://twitter.com/theeffiemmanuel">
   <img src="https://cdn.simpleicons.org/x/FFFFFF" height="24" alt="X" />
 </a> &nbsp;&nbsp;
@@ -33,7 +30,7 @@
 
 </div>
 
-<br/>
+<img src="./divider.svg" width="100%" alt="" />
 
 <!-- ============================================= -->
 <!--                  ABOUT ME                     -->
@@ -46,7 +43,7 @@
 - 💡 Most side projects start because I couldn't find an existing solution
 - 🚢 Always shipping. Always learning.
 
-<br/>
+<img src="./divider.svg" width="100%" alt="" />
 
 <!-- ============================================= -->
 <!--                  ECOSYSTEM                    -->
@@ -97,7 +94,7 @@ AI-powered newsletter automation for creators and businesses.
 </tr>
 </table>
 
-<br/>
+<img src="./divider.svg" width="100%" alt="" />
 
 <!-- ============================================= -->
 <!--                FEATURED WORK                  -->
@@ -114,7 +111,7 @@ AI-powered newsletter automation for creators and businesses.
 
 <sub>🌐 [shuttlelane.com](https://www.shuttlelane.com) &nbsp;·&nbsp; [getklina.app](https://www.getklina.app) &nbsp;·&nbsp; [metriq.studio](https://www.metriq.studio) &nbsp;·&nbsp; [tlccglobal.org](https://www.tlccglobal.org)</sub>
 
-<br/>
+<img src="./divider.svg" width="100%" alt="" />
 
 <!-- ============================================= -->
 <!--                  TECH STACK                   -->
@@ -149,6 +146,43 @@ AI-powered newsletter automation for creators and businesses.
 </tr>
 </table>
 
+<img src="./divider.svg" width="100%" alt="" />
+
+<!-- ============================================= -->
+<!--                 GITHUB STATS                  -->
+<!-- ============================================= -->
+
+## &nbsp;📊&nbsp; GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=EffiEmmanuel&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=2563EB&text_color=9CA3AF&bg_color=00000000" alt="GitHub Stats" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EffiEmmanuel&layout=compact&hide_border=true&title_color=3B82F6&text_color=9CA3AF&bg_color=00000000" alt="Top Languages" />
+
+<br/><br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=EffiEmmanuel&hide_border=true&background=00000000&ring=3B82F6&fire=2563EB&currStreakLabel=3B82F6&sideLabels=9CA3AF&dates=6B7280&currStreakNum=DBEAFE&sideNums=DBEAFE" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=EffiEmmanuel&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+
+</div>
+
+<img src="./divider.svg" width="100%" alt="" />
+
+<!-- ============================================= -->
+<!--               RECENT ACTIVITY                 -->
+<!-- ============================================= -->
+
+## &nbsp;⚡&nbsp; Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<sub>↻ Auto-updated every 12 hours via GitHub Actions.</sub>
+
 <br/>
 
 <!-- ============================================= -->
@@ -165,6 +199,6 @@ Launching a startup, scaling a product, automating operations, or bringing a new
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:3B82F6&height=120&section=footer&text=Build%20things%20people%20actually%20need.&fontColor=ffffff&fontSize=20&fontAlignY=75&desc=&animation=fadeIn" width="100%" alt="footer" />
+<img src="./footer.svg" width="100%" alt="Build things people actually need." />
 
 </div>

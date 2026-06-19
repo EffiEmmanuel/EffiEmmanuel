@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="160" viewBox="0 0 1000 160" fill="none" role="img" aria-label="Build things people actually need">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Host+Grotesk:wght@500;700&amp;display=swap');
+      .tag    { font-family: 'Host Grotesk', system-ui, sans-serif; font-weight: 700; letter-spacing: 0.01em; }
+      .sub    { font-family: 'Host Grotesk', system-ui, sans-serif; font-weight: 500; letter-spacing: 0.16em; }
+    </style>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="fsheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M0 40 Q250 0 500 25 T1000 30 V160 H0 Z" fill="url(#fbg)"/>
+  <path d="M0 40 Q250 0 500 25 T1000 30 V160 H0 Z" fill="url(#fsheen)"/>
+
+  <text x="500" y="105" text-anchor="middle" class="tag" font-size="30" fill="#ffffff">Build things people actually need.</text>
+  <text x="500" y="140" text-anchor="middle" class="sub" font-size="13" fill="#DBEAFE">GETHSEMANE TECHNOLOGIES &#8226; ALWAYS SHIPPING</text>
+</svg>
