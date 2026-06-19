@@ -147,19 +147,6 @@ AI-powered newsletter automation for creators and businesses.
 
 <br/>
 
-<!-- ============================================= -->
-<!--                GITHUB STATS                   -->
-<!-- ============================================= -->
-
-## &nbsp;📈&nbsp; GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EffiEmmanuel&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=EffiEmmanuel&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
-
-<br/>
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EffiEmmanuel&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 </div>
