@@ -19,23 +19,23 @@
 <!--                 SOCIAL LINKS                  -->
 <!-- ============================================= -->
 <a href="https://linkedin.com/in/emmanuel-effi">
-  <img src="https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn" />
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="38" alt="LinkedIn" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://twitter.com/theeffiemmanuel">
-  <img src="https://img.shields.io/badge/%20-18181B?style=for-the-badge&logo=x&logoColor=white" height="42" alt="X" />
+  <img src="https://cdn.simpleicons.org/x/FFFFFF" height="38" alt="X" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://instagram.com/theeffiemmanuel">
-  <img src="https://img.shields.io/badge/%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="42" alt="Instagram" />
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="38" alt="Instagram" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:effi@gethsemanetech.io">
-  <img src="https://img.shields.io/badge/%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="38" alt="Email" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.gethsemanetech.io">
-  <img src="https://img.shields.io/badge/%20-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" height="42" alt="Website" />
+  <img src="https://cdn.simpleicons.org/googlechrome/8B5CF6" height="38" alt="Website" />
 </a>
 
 <br/>
